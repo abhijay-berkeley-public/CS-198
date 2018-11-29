@@ -1,7 +1,9 @@
 {
+	"compileOnSave":true,
 	"compilerOptions": {
 		"target": "ES6",
 		"module": "amd",
-		"sourceMap": true
+		"sourceMap": true,
+		"watch": true
 	}
 }
